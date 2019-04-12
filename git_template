@@ -1,0 +1,8 @@
+# type[optional scope]: description (<= 50 characters)
+# (type in [fix|feat|chore|docs|refactor|style|test]), scope optional
+
+# description (wrap at 72 characters)
+# If this is a breaking change, the description must start with
+# BREAKING CHANGE:
+
+# References: Include a reference to the item numbers
